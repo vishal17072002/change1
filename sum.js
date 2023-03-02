@@ -1,3 +1,3 @@
-const a=10;
+let a=10;
 const b=20;
-console.log("the value of sum is" a+b);
+console.log("the value of sum is", a+b);
